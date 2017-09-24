@@ -1,0 +1,10 @@
+# Material Count: 1
+newmtl Material.001
+Ns 30.0000
+Ka 0.640000 0.640000 0.640000
+Kd 0.640000 0.640000 0.640000
+Ks 0.050000 0.050000 0.050000
+Ni 1.000000
+d 0.5
+illum 2
+map_Kd ColorMapsmall.bmp
